@@ -1,0 +1,26 @@
+[
+    {
+     "url": "https://res.cloudinary.com/dexrwufu2/image/upload/v1698646994/react/3_o57vlk.png",
+     "name": "Kitanda Espresso & Acai-U District",
+     "status": true,
+     "time": "5-10 minutes",
+     "address": "1121 NE 45 St",
+     "id": "1"
+    },
+    {
+     "url": "https://res.cloudinary.com/dexrwufu2/image/upload/v1698646990/react/1_vv8eoo.png",
+     "name": "Jewel Box Cafe",
+     "status": false,
+     "time": "10-15 minutes",
+     "address": "1145 GE 54 St",
+     "id": "2"
+    },
+    {
+     "url": "https://res.cloudinary.com/dexrwufu2/image/upload/v1698646991/react/2_fjuqir.png",
+     "name": "Javasti Cafe",
+     "status": false,
+     "time": "15-20 minutes",
+     "address": "1167 GE 54 St",
+     "id": "3"
+    }
+   ]
